@@ -35,9 +35,9 @@
     {
       "id": "5",
       "title": "Web-site RELVISE",
-      "skills": "JS, HTML, CSS, Adaptive layout",
+      "skills": "HTML, CSS, Adaptive layout",
       "image": "relvise.png",
-      "link": "https://html-project-4.vercel.app/",
+      "link": "https://relvise-web-site.vercel.app/",
       "gitHubLink": "https://github.com/TryCatchB/HTML-project-4"
     },
     {
