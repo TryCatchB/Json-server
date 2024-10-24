@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Vk-copy",
+      "skills": "React, TypeScript, FireBase, Vite",
+      "image": "VK-copy.png",
+      "link": "https://vk-copy-cewm.vercel.app/",
+      "gitHubLink": "https://github.com/TryCatchB/VK-copy"
+    },
+    {
+      "id": "2",
+      "title": "Netflix-copy",
+      "skills": "React, TypeScript, Redux, Vite",
+      "image": "Netflix-copy.png",
+      "link": "",
+      "gitHubLink": "https://github.com/TryCatchB/Netflix_copy"
+    },
+    {
+      "id": "3",
+      "title": "To-do App",
+      "skills": "JS, HTML, CSS",
+      "image": "to-do_app.png",
+      "link": "https://to-do-app-mu-ivory.vercel.app/",
+      "gitHubLink": "https://github.com/TryCatchB/TO-DO_app"
+    },
+    {
+      "id": "4",
+      "title": "Online Store ZLATMAX",
+      "skills": "JS, HTML, CSS, SwiperJS, Adaptive layout",
+      "image": "zlatmax.png",
+      "link": "https://online-store-lime.vercel.app/",
+      "gitHubLink": "https://github.com/TryCatchB/Online-store"
+    },
+    {
+      "id": "5",
+      "title": "Web-site RELVISE",
+      "skills": "JS, HTML, CSS, Adaptive layout",
+      "image": "relvise.png",
+      "link": "https://html-project-4.vercel.app/",
+      "gitHubLink": "https://github.com/TryCatchB/HTML-project-4"
+    },
+    {
+      "id": "6",
+      "title": "My first web-site",
+      "skills": "HTML, CSS, BootStrap",
+      "image": "firstProject.png",
+      "link": "https://html-project-three-chi.vercel.app/",
+      "gitHubLink": "https://github.com/TryCatchB/HTML-project"
+    }
+  ]
+}
