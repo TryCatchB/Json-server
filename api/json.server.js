@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const server = jsonServer.create();
-const router = jsonServer.router("../data.json");
+const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
